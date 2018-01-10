@@ -1,0 +1,4 @@
+C:\Users\jbt\Desktop\09.01.2018\Getter and Setter\app.js
+C:\Users\jbt\Desktop\09.01.2018\Getter and Setter\app.js.map
+C:\Users\jbt\Desktop\09.01.2018\Getter and Setter\cashier.js
+C:\Users\jbt\Desktop\09.01.2018\Getter and Setter\cashier.js.map

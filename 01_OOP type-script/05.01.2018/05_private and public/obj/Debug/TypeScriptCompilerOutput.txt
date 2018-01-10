@@ -1,0 +1,10 @@
+c:\users\jbt\documents\visual studio 2015\Projects\Cashier\app.js
+c:\users\jbt\documents\visual studio 2015\Projects\Cashier\app.js.map
+c:\users\jbt\documents\visual studio 2015\Projects\Cashier\app.js
+c:\users\jbt\documents\visual studio 2015\Projects\Cashier\app.js.map
+c:\users\jbt\documents\visual studio 2015\Projects\Cashier\app.js
+c:\users\jbt\documents\visual studio 2015\Projects\Cashier\app.js.map
+c:\users\jbt\documents\visual studio 2015\Projects\Cashier\app.js
+c:\users\jbt\documents\visual studio 2015\Projects\Cashier\app.js.map
+c:\users\jbt\documents\visual studio 2015\Projects\Cashier\cashier.js
+c:\users\jbt\documents\visual studio 2015\Projects\Cashier\cashier.js.map

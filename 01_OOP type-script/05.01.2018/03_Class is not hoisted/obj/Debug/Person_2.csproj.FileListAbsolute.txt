@@ -1,0 +1,6 @@
+c:\users\jbt\documents\visual studio 2015\Projects\Person_2\obj\Debug\Person_2.csprojResolveAssemblyReference.cache
+c:\users\jbt\documents\visual studio 2015\Projects\Person_2\bin\Person_2.dll.config
+c:\users\jbt\documents\visual studio 2015\Projects\Person_2\bin\Person_2.dll
+c:\users\jbt\documents\visual studio 2015\Projects\Person_2\bin\Person_2.pdb
+c:\users\jbt\documents\visual studio 2015\Projects\Person_2\obj\Debug\Person_2.dll
+c:\users\jbt\documents\visual studio 2015\Projects\Person_2\obj\Debug\Person_2.pdb

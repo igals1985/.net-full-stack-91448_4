@@ -1,0 +1,6 @@
+C:\Users\jbt\Desktop\09.01.2018\Getter and Setter\bin\Getter and Setter.dll.config
+C:\Users\jbt\Desktop\09.01.2018\Getter and Setter\bin\Getter and Setter.dll
+C:\Users\jbt\Desktop\09.01.2018\Getter and Setter\bin\Getter and Setter.pdb
+C:\Users\jbt\Desktop\09.01.2018\Getter and Setter\obj\Debug\Getter and Setter.csprojResolveAssemblyReference.cache
+C:\Users\jbt\Desktop\09.01.2018\Getter and Setter\obj\Debug\Getter and Setter.dll
+C:\Users\jbt\Desktop\09.01.2018\Getter and Setter\obj\Debug\Getter and Setter.pdb

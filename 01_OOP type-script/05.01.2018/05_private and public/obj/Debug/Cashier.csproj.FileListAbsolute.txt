@@ -1,0 +1,6 @@
+c:\users\jbt\documents\visual studio 2015\Projects\Cashier\bin\Cashier.dll.config
+c:\users\jbt\documents\visual studio 2015\Projects\Cashier\bin\Cashier.dll
+c:\users\jbt\documents\visual studio 2015\Projects\Cashier\bin\Cashier.pdb
+c:\users\jbt\documents\visual studio 2015\Projects\Cashier\obj\Debug\Cashier.csprojResolveAssemblyReference.cache
+c:\users\jbt\documents\visual studio 2015\Projects\Cashier\obj\Debug\Cashier.dll
+c:\users\jbt\documents\visual studio 2015\Projects\Cashier\obj\Debug\Cashier.pdb
