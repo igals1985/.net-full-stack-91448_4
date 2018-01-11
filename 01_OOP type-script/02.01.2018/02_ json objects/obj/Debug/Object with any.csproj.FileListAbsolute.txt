@@ -1,0 +1,6 @@
+c:\users\jbt\documents\visual studio 2015\Projects\Object with any\bin\Object with any.dll.config
+c:\users\jbt\documents\visual studio 2015\Projects\Object with any\bin\Object with any.dll
+c:\users\jbt\documents\visual studio 2015\Projects\Object with any\bin\Object with any.pdb
+c:\users\jbt\documents\visual studio 2015\Projects\Object with any\obj\Debug\Object with any.csprojResolveAssemblyReference.cache
+c:\users\jbt\documents\visual studio 2015\Projects\Object with any\obj\Debug\Object with any.dll
+c:\users\jbt\documents\visual studio 2015\Projects\Object with any\obj\Debug\Object with any.pdb
