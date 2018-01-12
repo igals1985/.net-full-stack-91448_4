@@ -1,0 +1,6 @@
+C:\Users\jbt\Desktop\12.01.2018\Aggregation in class\bin\Aggregation in class.dll.config
+C:\Users\jbt\Desktop\12.01.2018\Aggregation in class\bin\Aggregation in class.dll
+C:\Users\jbt\Desktop\12.01.2018\Aggregation in class\bin\Aggregation in class.pdb
+C:\Users\jbt\Desktop\12.01.2018\Aggregation in class\obj\Debug\Aggregation in class.csprojResolveAssemblyReference.cache
+C:\Users\jbt\Desktop\12.01.2018\Aggregation in class\obj\Debug\Aggregation in class.dll
+C:\Users\jbt\Desktop\12.01.2018\Aggregation in class\obj\Debug\Aggregation in class.pdb

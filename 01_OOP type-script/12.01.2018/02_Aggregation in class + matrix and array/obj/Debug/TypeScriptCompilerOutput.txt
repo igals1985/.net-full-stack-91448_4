@@ -1,0 +1,36 @@
+C:\Users\jbt\Desktop\12.01.2018\Aggregation in class\app.js
+C:\Users\jbt\Desktop\12.01.2018\Aggregation in class\app.js.map
+C:\Users\jbt\Desktop\12.01.2018\Aggregation in class\cinema.js
+C:\Users\jbt\Desktop\12.01.2018\Aggregation in class\cinema.js.map
+C:\Users\jbt\Desktop\12.01.2018\Aggregation in class\manager.js
+C:\Users\jbt\Desktop\12.01.2018\Aggregation in class\manager.js.map
+C:\Users\jbt\Desktop\12.01.2018\02_Aggregation in class + matrix and array\app.js
+C:\Users\jbt\Desktop\12.01.2018\02_Aggregation in class + matrix and array\app.js.map
+C:\Users\jbt\Desktop\12.01.2018\02_Aggregation in class + matrix and array\cashier.js
+C:\Users\jbt\Desktop\12.01.2018\02_Aggregation in class + matrix and array\cashier.js.map
+C:\Users\jbt\Desktop\12.01.2018\02_Aggregation in class + matrix and array\cinema.js
+C:\Users\jbt\Desktop\12.01.2018\02_Aggregation in class + matrix and array\cinema.js.map
+C:\Users\jbt\Desktop\12.01.2018\02_Aggregation in class + matrix and array\manager.js
+C:\Users\jbt\Desktop\12.01.2018\02_Aggregation in class + matrix and array\manager.js.map
+C:\Users\jbt\Desktop\12.01.2018\02_Aggregation in class + matrix and array\shift.js
+C:\Users\jbt\Desktop\12.01.2018\02_Aggregation in class + matrix and array\shift.js.map
+C:\Users\jbt\Desktop\12.01.2018\02_Aggregation in class + matrix and array\app.js
+C:\Users\jbt\Desktop\12.01.2018\02_Aggregation in class + matrix and array\app.js.map
+C:\Users\jbt\Desktop\12.01.2018\02_Aggregation in class + matrix and array\cashier.js
+C:\Users\jbt\Desktop\12.01.2018\02_Aggregation in class + matrix and array\cashier.js.map
+C:\Users\jbt\Desktop\12.01.2018\02_Aggregation in class + matrix and array\cinema.js
+C:\Users\jbt\Desktop\12.01.2018\02_Aggregation in class + matrix and array\cinema.js.map
+C:\Users\jbt\Desktop\12.01.2018\02_Aggregation in class + matrix and array\manager.js
+C:\Users\jbt\Desktop\12.01.2018\02_Aggregation in class + matrix and array\manager.js.map
+C:\Users\jbt\Desktop\12.01.2018\02_Aggregation in class + matrix and array\shift.js
+C:\Users\jbt\Desktop\12.01.2018\02_Aggregation in class + matrix and array\shift.js.map
+C:\Users\jbt\Desktop\12.01.2018\02_Aggregation in class + matrix and array\app.js
+C:\Users\jbt\Desktop\12.01.2018\02_Aggregation in class + matrix and array\app.js.map
+C:\Users\jbt\Desktop\12.01.2018\02_Aggregation in class + matrix and array\cashier.js
+C:\Users\jbt\Desktop\12.01.2018\02_Aggregation in class + matrix and array\cashier.js.map
+C:\Users\jbt\Desktop\12.01.2018\02_Aggregation in class + matrix and array\cinema.js
+C:\Users\jbt\Desktop\12.01.2018\02_Aggregation in class + matrix and array\cinema.js.map
+C:\Users\jbt\Desktop\12.01.2018\02_Aggregation in class + matrix and array\manager.js
+C:\Users\jbt\Desktop\12.01.2018\02_Aggregation in class + matrix and array\manager.js.map
+C:\Users\jbt\Desktop\12.01.2018\02_Aggregation in class + matrix and array\shift.js
+C:\Users\jbt\Desktop\12.01.2018\02_Aggregation in class + matrix and array\shift.js.map
