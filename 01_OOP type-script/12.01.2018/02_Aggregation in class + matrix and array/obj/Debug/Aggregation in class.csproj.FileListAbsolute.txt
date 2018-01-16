@@ -10,3 +10,10 @@ C:\Users\jbt\Desktop\12.01.2018\02_Aggregation in class + matrix and array\bin\A
 C:\Users\jbt\Desktop\12.01.2018\02_Aggregation in class + matrix and array\obj\Debug\Aggregation in class.csprojResolveAssemblyReference.cache
 C:\Users\jbt\Desktop\12.01.2018\02_Aggregation in class + matrix and array\obj\Debug\Aggregation in class.dll
 C:\Users\jbt\Desktop\12.01.2018\02_Aggregation in class + matrix and array\obj\Debug\Aggregation in class.pdb
+C:\Users\Anna.DESKTOP-RLP7NAJ\Desktop\repo\.net-full-stack-91448_4\01_OOP type-script\12.01.2018\02_Aggregation in class + matrix and array\bin\Aggregation in class.dll.config
+C:\Users\Anna.DESKTOP-RLP7NAJ\Desktop\repo\.net-full-stack-91448_4\01_OOP type-script\12.01.2018\02_Aggregation in class + matrix and array\bin\Aggregation in class.dll
+C:\Users\Anna.DESKTOP-RLP7NAJ\Desktop\repo\.net-full-stack-91448_4\01_OOP type-script\12.01.2018\02_Aggregation in class + matrix and array\bin\Aggregation in class.pdb
+C:\Users\Anna.DESKTOP-RLP7NAJ\Desktop\repo\.net-full-stack-91448_4\01_OOP type-script\12.01.2018\02_Aggregation in class + matrix and array\obj\Debug\Aggregation in class.csprojResolveAssemblyReference.cache
+C:\Users\Anna.DESKTOP-RLP7NAJ\Desktop\repo\.net-full-stack-91448_4\01_OOP type-script\12.01.2018\02_Aggregation in class + matrix and array\obj\Debug\Aggregation in class.csproj.CoreCompileInputs.cache
+C:\Users\Anna.DESKTOP-RLP7NAJ\Desktop\repo\.net-full-stack-91448_4\01_OOP type-script\12.01.2018\02_Aggregation in class + matrix and array\obj\Debug\Aggregation in class.dll
+C:\Users\Anna.DESKTOP-RLP7NAJ\Desktop\repo\.net-full-stack-91448_4\01_OOP type-script\12.01.2018\02_Aggregation in class + matrix and array\obj\Debug\Aggregation in class.pdb

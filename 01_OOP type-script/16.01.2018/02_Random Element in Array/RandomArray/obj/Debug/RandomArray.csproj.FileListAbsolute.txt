@@ -1,0 +1,5 @@
+C:\Users\jbt\Desktop\RandomArray\RandomArray\bin\RandomArray.dll.config
+C:\Users\jbt\Desktop\RandomArray\RandomArray\bin\RandomArray.dll
+C:\Users\jbt\Desktop\RandomArray\RandomArray\bin\RandomArray.pdb
+C:\Users\jbt\Desktop\RandomArray\RandomArray\obj\Debug\RandomArray.dll
+C:\Users\jbt\Desktop\RandomArray\RandomArray\obj\Debug\RandomArray.pdb

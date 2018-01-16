@@ -1,0 +1,6 @@
+C:\Users\jbt\Desktop\MatOfObjects\MatOfObjects\bin\MatOfObjects.dll.config
+C:\Users\jbt\Desktop\MatOfObjects\MatOfObjects\bin\MatOfObjects.dll
+C:\Users\jbt\Desktop\MatOfObjects\MatOfObjects\bin\MatOfObjects.pdb
+C:\Users\jbt\Desktop\MatOfObjects\MatOfObjects\obj\Debug\MatOfObjects.dll
+C:\Users\jbt\Desktop\MatOfObjects\MatOfObjects\obj\Debug\MatOfObjects.pdb
+C:\Users\jbt\Desktop\MatOfObjects\MatOfObjects\obj\Debug\MatOfObjects.csprojResolveAssemblyReference.cache

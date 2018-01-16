@@ -4,3 +4,10 @@ C:\Users\jbt\Desktop\12.01.2018\Array Init\bin\Array Init.pdb
 C:\Users\jbt\Desktop\12.01.2018\Array Init\obj\Debug\Array Init.csprojResolveAssemblyReference.cache
 C:\Users\jbt\Desktop\12.01.2018\Array Init\obj\Debug\Array Init.dll
 C:\Users\jbt\Desktop\12.01.2018\Array Init\obj\Debug\Array Init.pdb
+C:\Users\Anna.DESKTOP-RLP7NAJ\Desktop\repo\.net-full-stack-91448_4\01_OOP type-script\12.01.2018\03_Array Init\bin\Array Init.dll.config
+C:\Users\Anna.DESKTOP-RLP7NAJ\Desktop\repo\.net-full-stack-91448_4\01_OOP type-script\12.01.2018\03_Array Init\bin\Array Init.dll
+C:\Users\Anna.DESKTOP-RLP7NAJ\Desktop\repo\.net-full-stack-91448_4\01_OOP type-script\12.01.2018\03_Array Init\bin\Array Init.pdb
+C:\Users\Anna.DESKTOP-RLP7NAJ\Desktop\repo\.net-full-stack-91448_4\01_OOP type-script\12.01.2018\03_Array Init\obj\Debug\Array Init.csprojResolveAssemblyReference.cache
+C:\Users\Anna.DESKTOP-RLP7NAJ\Desktop\repo\.net-full-stack-91448_4\01_OOP type-script\12.01.2018\03_Array Init\obj\Debug\Array Init.csproj.CoreCompileInputs.cache
+C:\Users\Anna.DESKTOP-RLP7NAJ\Desktop\repo\.net-full-stack-91448_4\01_OOP type-script\12.01.2018\03_Array Init\obj\Debug\Array Init.dll
+C:\Users\Anna.DESKTOP-RLP7NAJ\Desktop\repo\.net-full-stack-91448_4\01_OOP type-script\12.01.2018\03_Array Init\obj\Debug\Array Init.pdb

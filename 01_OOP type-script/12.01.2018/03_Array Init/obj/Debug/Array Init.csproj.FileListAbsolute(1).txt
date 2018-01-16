@@ -1,6 +1,0 @@
-C:\Users\jbt\Desktop\12.01.2018\Array Init\bin\Array Init.dll.config
-C:\Users\jbt\Desktop\12.01.2018\Array Init\bin\Array Init.dll
-C:\Users\jbt\Desktop\12.01.2018\Array Init\bin\Array Init.pdb
-C:\Users\jbt\Desktop\12.01.2018\Array Init\obj\Debug\Array Init.csprojResolveAssemblyReference.cache
-C:\Users\jbt\Desktop\12.01.2018\Array Init\obj\Debug\Array Init.dll
-C:\Users\jbt\Desktop\12.01.2018\Array Init\obj\Debug\Array Init.pdb
