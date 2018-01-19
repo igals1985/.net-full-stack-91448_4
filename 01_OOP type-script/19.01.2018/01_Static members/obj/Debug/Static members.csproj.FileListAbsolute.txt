@@ -1,0 +1,6 @@
+C:\Users\jbt\Desktop\12.01.2018\Static members\obj\Debug\Static members.csprojResolveAssemblyReference.cache
+C:\Users\jbt\Desktop\12.01.2018\Static members\bin\Static members.dll.config
+C:\Users\jbt\Desktop\12.01.2018\Static members\bin\Static members.dll
+C:\Users\jbt\Desktop\12.01.2018\Static members\bin\Static members.pdb
+C:\Users\jbt\Desktop\12.01.2018\Static members\obj\Debug\Static members.dll
+C:\Users\jbt\Desktop\12.01.2018\Static members\obj\Debug\Static members.pdb

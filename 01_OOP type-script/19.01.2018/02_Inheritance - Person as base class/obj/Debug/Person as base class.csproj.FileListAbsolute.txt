@@ -1,0 +1,6 @@
+C:\Users\jbt\Desktop\12.01.2018\Person as base class\obj\Debug\Person as base class.csprojResolveAssemblyReference.cache
+C:\Users\jbt\Desktop\12.01.2018\Person as base class\bin\Person as base class.dll.config
+C:\Users\jbt\Desktop\12.01.2018\Person as base class\bin\Person as base class.dll
+C:\Users\jbt\Desktop\12.01.2018\Person as base class\bin\Person as base class.pdb
+C:\Users\jbt\Desktop\12.01.2018\Person as base class\obj\Debug\Person as base class.dll
+C:\Users\jbt\Desktop\12.01.2018\Person as base class\obj\Debug\Person as base class.pdb

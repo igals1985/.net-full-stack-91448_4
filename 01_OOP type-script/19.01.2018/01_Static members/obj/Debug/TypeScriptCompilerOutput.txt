@@ -1,0 +1,4 @@
+C:\Users\jbt\Desktop\12.01.2018\Static members\app.js
+C:\Users\jbt\Desktop\12.01.2018\Static members\app.js.map
+C:\Users\jbt\Desktop\12.01.2018\Static members\calc.js
+C:\Users\jbt\Desktop\12.01.2018\Static members\calc.js.map

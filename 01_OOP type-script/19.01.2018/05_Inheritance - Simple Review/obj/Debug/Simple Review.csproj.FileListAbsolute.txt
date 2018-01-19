@@ -1,0 +1,6 @@
+C:\Users\jbt\Desktop\12.01.2018\Simple Review\obj\Debug\Simple Review.csprojResolveAssemblyReference.cache
+C:\Users\jbt\Desktop\12.01.2018\Simple Review\bin\Simple Review.dll.config
+C:\Users\jbt\Desktop\12.01.2018\Simple Review\bin\Simple Review.dll
+C:\Users\jbt\Desktop\12.01.2018\Simple Review\bin\Simple Review.pdb
+C:\Users\jbt\Desktop\12.01.2018\Simple Review\obj\Debug\Simple Review.dll
+C:\Users\jbt\Desktop\12.01.2018\Simple Review\obj\Debug\Simple Review.pdb
