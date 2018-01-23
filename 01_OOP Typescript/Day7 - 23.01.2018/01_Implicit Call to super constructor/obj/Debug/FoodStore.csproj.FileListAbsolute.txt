@@ -1,0 +1,6 @@
+C:\Users\jbt\Desktop\23.01.2018\FoodStore\bin\FoodStore.dll.config
+C:\Users\jbt\Desktop\23.01.2018\FoodStore\bin\FoodStore.dll
+C:\Users\jbt\Desktop\23.01.2018\FoodStore\bin\FoodStore.pdb
+C:\Users\jbt\Desktop\23.01.2018\FoodStore\obj\Debug\FoodStore.csprojResolveAssemblyReference.cache
+C:\Users\jbt\Desktop\23.01.2018\FoodStore\obj\Debug\FoodStore.dll
+C:\Users\jbt\Desktop\23.01.2018\FoodStore\obj\Debug\FoodStore.pdb

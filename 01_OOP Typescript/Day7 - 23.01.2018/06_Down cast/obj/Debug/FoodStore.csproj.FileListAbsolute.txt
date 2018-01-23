@@ -1,0 +1,24 @@
+C:\Users\jbt\Desktop\23.01.2018\FoodStore\bin\FoodStore.dll.config
+C:\Users\jbt\Desktop\23.01.2018\FoodStore\bin\FoodStore.dll
+C:\Users\jbt\Desktop\23.01.2018\FoodStore\bin\FoodStore.pdb
+C:\Users\jbt\Desktop\23.01.2018\FoodStore\obj\Debug\FoodStore.csprojResolveAssemblyReference.cache
+C:\Users\jbt\Desktop\23.01.2018\FoodStore\obj\Debug\FoodStore.dll
+C:\Users\jbt\Desktop\23.01.2018\FoodStore\obj\Debug\FoodStore.pdb
+C:\Users\jbt\Desktop\23.01.2018\FoodStore - Copy\obj\Debug\FoodStore.csprojResolveAssemblyReference.cache
+C:\Users\jbt\Desktop\23.01.2018\FoodStore - Copy\obj\Debug\FoodStore.dll
+C:\Users\jbt\Desktop\23.01.2018\FoodStore - Copy\obj\Debug\FoodStore.pdb
+C:\Users\jbt\Desktop\23.01.2018\FoodStore - Copy\bin\FoodStore.dll.config
+C:\Users\jbt\Desktop\23.01.2018\FoodStore - Copy\bin\FoodStore.dll
+C:\Users\jbt\Desktop\23.01.2018\FoodStore - Copy\bin\FoodStore.pdb
+C:\Users\jbt\Desktop\23.01.2018\FoodStore - Copy - Copy\bin\FoodStore.dll.config
+C:\Users\jbt\Desktop\23.01.2018\FoodStore - Copy - Copy\bin\FoodStore.dll
+C:\Users\jbt\Desktop\23.01.2018\FoodStore - Copy - Copy\bin\FoodStore.pdb
+C:\Users\jbt\Desktop\23.01.2018\FoodStore - Copy - Copy\obj\Debug\FoodStore.csprojResolveAssemblyReference.cache
+C:\Users\jbt\Desktop\23.01.2018\FoodStore - Copy - Copy\obj\Debug\FoodStore.dll
+C:\Users\jbt\Desktop\23.01.2018\FoodStore - Copy - Copy\obj\Debug\FoodStore.pdb
+C:\Users\jbt\Desktop\23.01.2018\FoodStore - Copy - Copy - Copy\obj\Debug\FoodStore.csprojResolveAssemblyReference.cache
+C:\Users\jbt\Desktop\23.01.2018\FoodStore - Copy - Copy - Copy\obj\Debug\FoodStore.dll
+C:\Users\jbt\Desktop\23.01.2018\FoodStore - Copy - Copy - Copy\obj\Debug\FoodStore.pdb
+C:\Users\jbt\Desktop\23.01.2018\FoodStore - Copy - Copy - Copy\bin\FoodStore.dll.config
+C:\Users\jbt\Desktop\23.01.2018\FoodStore - Copy - Copy - Copy\bin\FoodStore.dll
+C:\Users\jbt\Desktop\23.01.2018\FoodStore - Copy - Copy - Copy\bin\FoodStore.pdb
