@@ -1,0 +1,44 @@
+C:\Users\jbt\Desktop\MatOfObjects\MatOfObjects\app.js
+C:\Users\jbt\Desktop\MatOfObjects\MatOfObjects\app.js.map
+C:\Users\jbt\Desktop\MatOfObjects\MatOfObjects\cashier.js
+C:\Users\jbt\Desktop\MatOfObjects\MatOfObjects\cashier.js.map
+C:\Users\jbt\Desktop\MatOfObjects\MatOfObjects\chair.js
+C:\Users\jbt\Desktop\MatOfObjects\MatOfObjects\chair.js.map
+C:\Users\jbt\Desktop\MatOfObjects\MatOfObjects\cinema.js
+C:\Users\jbt\Desktop\MatOfObjects\MatOfObjects\cinema.js.map
+C:\Users\jbt\Desktop\MatOfObjects\MatOfObjects\manager.js
+C:\Users\jbt\Desktop\MatOfObjects\MatOfObjects\manager.js.map
+C:\Users\jbt\Desktop\MatOfObjects\MatOfObjects\shift.js
+C:\Users\jbt\Desktop\MatOfObjects\MatOfObjects\shift.js.map
+C:\Users\jbt\Desktop\MatOfObjects\MatOfObjects\app.js
+C:\Users\jbt\Desktop\MatOfObjects\MatOfObjects\app.js.map
+C:\Users\jbt\Desktop\MatOfObjects\MatOfObjects\cashier.js
+C:\Users\jbt\Desktop\MatOfObjects\MatOfObjects\cashier.js.map
+C:\Users\jbt\Desktop\MatOfObjects\MatOfObjects\chair.js
+C:\Users\jbt\Desktop\MatOfObjects\MatOfObjects\chair.js.map
+C:\Users\jbt\Desktop\MatOfObjects\MatOfObjects\cinema.js
+C:\Users\jbt\Desktop\MatOfObjects\MatOfObjects\cinema.js.map
+C:\Users\jbt\Desktop\MatOfObjects\MatOfObjects\cinemaAgency.js
+C:\Users\jbt\Desktop\MatOfObjects\MatOfObjects\cinemaAgency.js.map
+C:\Users\jbt\Desktop\MatOfObjects\MatOfObjects\manager.js
+C:\Users\jbt\Desktop\MatOfObjects\MatOfObjects\manager.js.map
+C:\Users\jbt\Desktop\MatOfObjects\MatOfObjects\shift.js
+C:\Users\jbt\Desktop\MatOfObjects\MatOfObjects\shift.js.map
+C:\Users\jbt\Desktop\Day8 - 26.01.2018\03_Aggregation Matrix Of Objects\MatOfObjects\address.js
+C:\Users\jbt\Desktop\Day8 - 26.01.2018\03_Aggregation Matrix Of Objects\MatOfObjects\address.js.map
+C:\Users\jbt\Desktop\Day8 - 26.01.2018\03_Aggregation Matrix Of Objects\MatOfObjects\app.js
+C:\Users\jbt\Desktop\Day8 - 26.01.2018\03_Aggregation Matrix Of Objects\MatOfObjects\app.js.map
+C:\Users\jbt\Desktop\Day8 - 26.01.2018\03_Aggregation Matrix Of Objects\MatOfObjects\cashier.js
+C:\Users\jbt\Desktop\Day8 - 26.01.2018\03_Aggregation Matrix Of Objects\MatOfObjects\cashier.js.map
+C:\Users\jbt\Desktop\Day8 - 26.01.2018\03_Aggregation Matrix Of Objects\MatOfObjects\chair.js
+C:\Users\jbt\Desktop\Day8 - 26.01.2018\03_Aggregation Matrix Of Objects\MatOfObjects\chair.js.map
+C:\Users\jbt\Desktop\Day8 - 26.01.2018\03_Aggregation Matrix Of Objects\MatOfObjects\cinema.js
+C:\Users\jbt\Desktop\Day8 - 26.01.2018\03_Aggregation Matrix Of Objects\MatOfObjects\cinema.js.map
+C:\Users\jbt\Desktop\Day8 - 26.01.2018\03_Aggregation Matrix Of Objects\MatOfObjects\cinemaTeamPartner.js
+C:\Users\jbt\Desktop\Day8 - 26.01.2018\03_Aggregation Matrix Of Objects\MatOfObjects\cinemaTeamPartner.js.map
+C:\Users\jbt\Desktop\Day8 - 26.01.2018\03_Aggregation Matrix Of Objects\MatOfObjects\manager.js
+C:\Users\jbt\Desktop\Day8 - 26.01.2018\03_Aggregation Matrix Of Objects\MatOfObjects\manager.js.map
+C:\Users\jbt\Desktop\Day8 - 26.01.2018\03_Aggregation Matrix Of Objects\MatOfObjects\person.js
+C:\Users\jbt\Desktop\Day8 - 26.01.2018\03_Aggregation Matrix Of Objects\MatOfObjects\person.js.map
+C:\Users\jbt\Desktop\Day8 - 26.01.2018\03_Aggregation Matrix Of Objects\MatOfObjects\shift.js
+C:\Users\jbt\Desktop\Day8 - 26.01.2018\03_Aggregation Matrix Of Objects\MatOfObjects\shift.js.map

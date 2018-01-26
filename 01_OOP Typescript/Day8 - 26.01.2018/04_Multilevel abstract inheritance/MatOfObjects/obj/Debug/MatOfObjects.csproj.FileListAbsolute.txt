@@ -1,0 +1,12 @@
+C:\Users\jbt\Desktop\MatOfObjects\MatOfObjects\bin\MatOfObjects.dll.config
+C:\Users\jbt\Desktop\MatOfObjects\MatOfObjects\bin\MatOfObjects.dll
+C:\Users\jbt\Desktop\MatOfObjects\MatOfObjects\bin\MatOfObjects.pdb
+C:\Users\jbt\Desktop\MatOfObjects\MatOfObjects\obj\Debug\MatOfObjects.dll
+C:\Users\jbt\Desktop\MatOfObjects\MatOfObjects\obj\Debug\MatOfObjects.pdb
+C:\Users\jbt\Desktop\MatOfObjects\MatOfObjects\obj\Debug\MatOfObjects.csprojResolveAssemblyReference.cache
+C:\Users\jbt\Desktop\Day8 - 26.01.2018\03_Aggregation Matrix Of Objects\MatOfObjects\bin\MatOfObjects.dll.config
+C:\Users\jbt\Desktop\Day8 - 26.01.2018\03_Aggregation Matrix Of Objects\MatOfObjects\bin\MatOfObjects.dll
+C:\Users\jbt\Desktop\Day8 - 26.01.2018\03_Aggregation Matrix Of Objects\MatOfObjects\bin\MatOfObjects.pdb
+C:\Users\jbt\Desktop\Day8 - 26.01.2018\03_Aggregation Matrix Of Objects\MatOfObjects\obj\Debug\MatOfObjects.csprojResolveAssemblyReference.cache
+C:\Users\jbt\Desktop\Day8 - 26.01.2018\03_Aggregation Matrix Of Objects\MatOfObjects\obj\Debug\MatOfObjects.dll
+C:\Users\jbt\Desktop\Day8 - 26.01.2018\03_Aggregation Matrix Of Objects\MatOfObjects\obj\Debug\MatOfObjects.pdb

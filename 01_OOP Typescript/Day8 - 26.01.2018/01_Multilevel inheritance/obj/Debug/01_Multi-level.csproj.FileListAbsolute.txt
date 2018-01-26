@@ -1,0 +1,6 @@
+C:\Users\jbt\Desktop\23.01.2018\01_Multi-level\bin\01_Multi-level.dll.config
+C:\Users\jbt\Desktop\23.01.2018\01_Multi-level\bin\01_Multi-level.dll
+C:\Users\jbt\Desktop\23.01.2018\01_Multi-level\bin\01_Multi-level.pdb
+C:\Users\jbt\Desktop\23.01.2018\01_Multi-level\obj\Debug\01_Multi-level.csprojResolveAssemblyReference.cache
+C:\Users\jbt\Desktop\23.01.2018\01_Multi-level\obj\Debug\01_Multi-level.dll
+C:\Users\jbt\Desktop\23.01.2018\01_Multi-level\obj\Debug\01_Multi-level.pdb

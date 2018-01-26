@@ -1,0 +1,2 @@
+C:\Users\jbt\Desktop\23.01.2018\toString overriding\app.js
+C:\Users\jbt\Desktop\23.01.2018\toString overriding\app.js.map
