@@ -1,0 +1,6 @@
+C:\Users\jbt\Desktop\30.01.2018\Interface+class+abstract\obj\Debug\Interface+class+abstract.csprojResolveAssemblyReference.cache
+C:\Users\jbt\Desktop\30.01.2018\Interface+class+abstract\bin\Interface+class+abstract.dll.config
+C:\Users\jbt\Desktop\30.01.2018\Interface+class+abstract\bin\Interface+class+abstract.dll
+C:\Users\jbt\Desktop\30.01.2018\Interface+class+abstract\bin\Interface+class+abstract.pdb
+C:\Users\jbt\Desktop\30.01.2018\Interface+class+abstract\obj\Debug\Interface+class+abstract.dll
+C:\Users\jbt\Desktop\30.01.2018\Interface+class+abstract\obj\Debug\Interface+class+abstract.pdb

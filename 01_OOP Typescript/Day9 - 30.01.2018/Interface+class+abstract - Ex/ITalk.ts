@@ -1,3 +1,0 @@
-﻿interface ITalk {
-    startTalking(): void;
-}
