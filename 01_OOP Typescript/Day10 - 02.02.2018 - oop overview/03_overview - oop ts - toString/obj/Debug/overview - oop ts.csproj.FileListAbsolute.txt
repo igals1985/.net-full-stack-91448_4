@@ -1,0 +1,12 @@
+C:\Users\jbt\Desktop\30.01.2018\overview - oop ts\obj\Debug\overview - oop ts.csprojResolveAssemblyReference.cache
+C:\Users\jbt\Desktop\30.01.2018\overview - oop ts\bin\overview - oop ts.dll.config
+C:\Users\jbt\Desktop\30.01.2018\overview - oop ts\bin\overview - oop ts.dll
+C:\Users\jbt\Desktop\30.01.2018\overview - oop ts\bin\overview - oop ts.pdb
+C:\Users\jbt\Desktop\30.01.2018\overview - oop ts\obj\Debug\overview - oop ts.dll
+C:\Users\jbt\Desktop\30.01.2018\overview - oop ts\obj\Debug\overview - oop ts.pdb
+C:\Users\jbt\Desktop\02.02.2018\03_overview - oop ts\bin\overview - oop ts.dll.config
+C:\Users\jbt\Desktop\02.02.2018\03_overview - oop ts\bin\overview - oop ts.dll
+C:\Users\jbt\Desktop\02.02.2018\03_overview - oop ts\bin\overview - oop ts.pdb
+C:\Users\jbt\Desktop\02.02.2018\03_overview - oop ts\obj\Debug\overview - oop ts.csprojResolveAssemblyReference.cache
+C:\Users\jbt\Desktop\02.02.2018\03_overview - oop ts\obj\Debug\overview - oop ts.dll
+C:\Users\jbt\Desktop\02.02.2018\03_overview - oop ts\obj\Debug\overview - oop ts.pdb
