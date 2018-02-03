@@ -1,0 +1,23 @@
+C:\Users\jbt\Desktop\30.01.2018\try-catch-finally\bin\try-catch-finally.dll.config
+C:\Users\jbt\Desktop\30.01.2018\try-catch-finally\bin\try-catch-finally.dll
+C:\Users\jbt\Desktop\30.01.2018\try-catch-finally\bin\try-catch-finally.pdb
+C:\Users\jbt\Desktop\30.01.2018\try-catch-finally\obj\Debug\try-catch-finally.dll
+C:\Users\jbt\Desktop\30.01.2018\try-catch-finally\obj\Debug\try-catch-finally.pdb
+C:\Users\jbt\Desktop\30.01.2018\try-catch-finally - Return\bin\try-catch-finally.dll.config
+C:\Users\jbt\Desktop\30.01.2018\try-catch-finally - Return\bin\try-catch-finally.dll
+C:\Users\jbt\Desktop\30.01.2018\try-catch-finally - Return\bin\try-catch-finally.pdb
+C:\Users\jbt\Desktop\30.01.2018\try-catch-finally - Return\obj\Debug\try-catch-finally.csprojResolveAssemblyReference.cache
+C:\Users\jbt\Desktop\30.01.2018\try-catch-finally - Return\obj\Debug\try-catch-finally.dll
+C:\Users\jbt\Desktop\30.01.2018\try-catch-finally - Return\obj\Debug\try-catch-finally.pdb
+C:\Users\jbt\Desktop\30.01.2018\try-catch-finally - Return -strp 2\obj\Debug\try-catch-finally.csprojResolveAssemblyReference.cache
+C:\Users\jbt\Desktop\30.01.2018\try-catch-finally - Return -strp 2\obj\Debug\try-catch-finally.dll
+C:\Users\jbt\Desktop\30.01.2018\try-catch-finally - Return -strp 2\obj\Debug\try-catch-finally.pdb
+C:\Users\jbt\Desktop\30.01.2018\try-catch-finally - Return -strp 2\bin\try-catch-finally.dll.config
+C:\Users\jbt\Desktop\30.01.2018\try-catch-finally - Return -strp 2\bin\try-catch-finally.dll
+C:\Users\jbt\Desktop\30.01.2018\try-catch-finally - Return -strp 2\bin\try-catch-finally.pdb
+C:\Users\jbt\Desktop\30.01.2018\try-catch-finally - Return -step 2 - Copy\obj\Debug\try-catch-finally.csprojResolveAssemblyReference.cache
+C:\Users\jbt\Desktop\30.01.2018\try-catch-finally - Return -step 2 - Copy\obj\Debug\try-catch-finally.dll
+C:\Users\jbt\Desktop\30.01.2018\try-catch-finally - Return -step 2 - Copy\obj\Debug\try-catch-finally.pdb
+C:\Users\jbt\Desktop\30.01.2018\try-catch-finally - Return -step 2 - Copy\bin\try-catch-finally.dll.config
+C:\Users\jbt\Desktop\30.01.2018\try-catch-finally - Return -step 2 - Copy\bin\try-catch-finally.dll
+C:\Users\jbt\Desktop\30.01.2018\try-catch-finally - Return -step 2 - Copy\bin\try-catch-finally.pdb

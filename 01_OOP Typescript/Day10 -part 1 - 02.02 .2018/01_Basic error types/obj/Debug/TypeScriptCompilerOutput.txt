@@ -1,0 +1,2 @@
+C:\Users\jbt\Desktop\30.01.2018\Basic error types - compilation + runtime + logic\app.js
+C:\Users\jbt\Desktop\30.01.2018\Basic error types - compilation + runtime + logic\app.js.map

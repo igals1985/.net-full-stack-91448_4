@@ -1,0 +1,10 @@
+C:\Users\jbt\Desktop\30.01.2018\try-catch-finally\app.js
+C:\Users\jbt\Desktop\30.01.2018\try-catch-finally\app.js.map
+C:\Users\jbt\Desktop\30.01.2018\try-catch-finally - Return\app.js
+C:\Users\jbt\Desktop\30.01.2018\try-catch-finally - Return\app.js.map
+C:\Users\jbt\Desktop\30.01.2018\try-catch-finally - Return -strp 2\app.js
+C:\Users\jbt\Desktop\30.01.2018\try-catch-finally - Return -strp 2\app.js.map
+C:\Users\jbt\Desktop\30.01.2018\try-catch-finally - Return -step 2 - Copy\app.js
+C:\Users\jbt\Desktop\30.01.2018\try-catch-finally - Return -step 2 - Copy\app.js.map
+C:\Users\jbt\Desktop\30.01.2018\try-catch-finally - Return -step 2 - Copy\app.js
+C:\Users\jbt\Desktop\30.01.2018\try-catch-finally - Return -step 2 - Copy\app.js.map

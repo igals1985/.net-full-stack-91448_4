@@ -1,0 +1,6 @@
+C:\Users\jbt\Desktop\30.01.2018\Basic error types - compilation + runtime + logic\bin\Basic error types - compilation + runtime + logic.dll.config
+C:\Users\jbt\Desktop\30.01.2018\Basic error types - compilation + runtime + logic\bin\Basic error types - compilation + runtime + logic.dll
+C:\Users\jbt\Desktop\30.01.2018\Basic error types - compilation + runtime + logic\bin\Basic error types - compilation + runtime + logic.pdb
+C:\Users\jbt\Desktop\30.01.2018\Basic error types - compilation + runtime + logic\obj\Debug\Basic error types - compilation + runtime + logic.csprojResolveAssemblyReference.cache
+C:\Users\jbt\Desktop\30.01.2018\Basic error types - compilation + runtime + logic\obj\Debug\Basic error types - compilation + runtime + logic.dll
+C:\Users\jbt\Desktop\30.01.2018\Basic error types - compilation + runtime + logic\obj\Debug\Basic error types - compilation + runtime + logic.pdb

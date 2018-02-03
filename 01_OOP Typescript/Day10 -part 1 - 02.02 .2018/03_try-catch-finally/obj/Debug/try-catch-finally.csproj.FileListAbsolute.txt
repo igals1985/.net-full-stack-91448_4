@@ -1,0 +1,11 @@
+C:\Users\jbt\Desktop\30.01.2018\try-catch-finally\bin\try-catch-finally.dll.config
+C:\Users\jbt\Desktop\30.01.2018\try-catch-finally\bin\try-catch-finally.dll
+C:\Users\jbt\Desktop\30.01.2018\try-catch-finally\bin\try-catch-finally.pdb
+C:\Users\jbt\Desktop\30.01.2018\try-catch-finally\obj\Debug\try-catch-finally.dll
+C:\Users\jbt\Desktop\30.01.2018\try-catch-finally\obj\Debug\try-catch-finally.pdb
+C:\Users\jbt\Desktop\30.01.2018\try-catch-finally - Return\bin\try-catch-finally.dll.config
+C:\Users\jbt\Desktop\30.01.2018\try-catch-finally - Return\bin\try-catch-finally.dll
+C:\Users\jbt\Desktop\30.01.2018\try-catch-finally - Return\bin\try-catch-finally.pdb
+C:\Users\jbt\Desktop\30.01.2018\try-catch-finally - Return\obj\Debug\try-catch-finally.csprojResolveAssemblyReference.cache
+C:\Users\jbt\Desktop\30.01.2018\try-catch-finally - Return\obj\Debug\try-catch-finally.dll
+C:\Users\jbt\Desktop\30.01.2018\try-catch-finally - Return\obj\Debug\try-catch-finally.pdb
