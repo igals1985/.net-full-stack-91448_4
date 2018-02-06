@@ -1,0 +1,6 @@
+C:\Users\jbt\Desktop\XO_Proj\bin\XO_Proj.dll.config
+C:\Users\jbt\Desktop\XO_Proj\bin\XO_Proj.dll
+C:\Users\jbt\Desktop\XO_Proj\bin\XO_Proj.pdb
+C:\Users\jbt\Desktop\XO_Proj\obj\Debug\XO_Proj.csprojResolveAssemblyReference.cache
+C:\Users\jbt\Desktop\XO_Proj\obj\Debug\XO_Proj.dll
+C:\Users\jbt\Desktop\XO_Proj\obj\Debug\XO_Proj.pdb
