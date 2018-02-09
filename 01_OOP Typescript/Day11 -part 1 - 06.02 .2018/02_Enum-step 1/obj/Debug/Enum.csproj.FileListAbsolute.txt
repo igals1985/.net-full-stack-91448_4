@@ -1,6 +1,0 @@
-C:\Users\jbt\Desktop\Enum\bin\Enum.dll.config
-C:\Users\jbt\Desktop\Enum\bin\Enum.dll
-C:\Users\jbt\Desktop\Enum\bin\Enum.pdb
-C:\Users\jbt\Desktop\Enum\obj\Debug\Enum.csprojResolveAssemblyReference.cache
-C:\Users\jbt\Desktop\Enum\obj\Debug\Enum.dll
-C:\Users\jbt\Desktop\Enum\obj\Debug\Enum.pdb

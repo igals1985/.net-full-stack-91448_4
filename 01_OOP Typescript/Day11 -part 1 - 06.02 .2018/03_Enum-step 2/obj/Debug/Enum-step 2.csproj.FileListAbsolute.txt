@@ -1,5 +1,0 @@
-C:\Users\jbt\Desktop\Enum-step 2\bin\Enum-step 2.dll.config
-C:\Users\jbt\Desktop\Enum-step 2\bin\Enum-step 2.dll
-C:\Users\jbt\Desktop\Enum-step 2\bin\Enum-step 2.pdb
-C:\Users\jbt\Desktop\Enum-step 2\obj\Debug\Enum-step 2.dll
-C:\Users\jbt\Desktop\Enum-step 2\obj\Debug\Enum-step 2.pdb
