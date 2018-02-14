@@ -1,0 +1,82 @@
+﻿<!--this is a tag that refers to xhtml syntax -->
+<!DOCTYPE html>
+
+<html lang="en" xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <meta charset="utf-8" />
+    <title>XYZ</title>
+</head>
+
+<body>
+
+
+    <!--H1 TO H6 TAG - Heading for the current section-->
+    <!--block tag-->
+    <h1>h1 header</h1>
+    <h2>h2 header</h2>
+    <h3>h3 header</h3>
+    <h4>h4 header</h4>
+    <h5>h5 header</h5>
+    <h6>h6 header</h6>
+
+    <!--Paragraph content-->
+    <!--block tag-->
+    <p>Hello - our first html page</p>
+
+    <!--Hyperlink (a hypertext anchor)-->
+    <!--inline tag-->
+
+    <!--_blank opens Hyperlink in a new tab-->
+    <a href="https://www.johnbryce.co.il/" target="_blank">link 1 - _blank</a>
+    <br />
+
+
+    <!--_self /_parent / _top-   opens Hyperlink in a current tab-->
+    <a href="https://www.johnbryce.co.il/" target="_self">link 2 - _self</a>
+    <br />
+    <a href="https://www.johnbryce.co.il/" target="_parent">link 3 - _parent</a>
+    <br />
+    <a href="https://www.johnbryce.co.il/" target="_top">link 4 - _top</a>
+    <br />
+    <a href="https://www.johnbryce.co.il/#footer-wrapper" target="_blank">johnbryce - footer (by id)</a>
+   
+
+    <h2 id="doglink">Links to our dogs:</h2>
+
+    <!--when we write href="#" + id_name the link refers to the element with this id_name -->
+    <a href="#anna">Anna's Dog</a>
+    <a href="#tzahi">Tzahi's Dog</a>
+    <a href="#tal">Tal's Dog</a>
+    <a href="#sean">Sean's Dog</a>
+
+    <h2>Our Dogs:</h2>
+
+    <!--An image. The HTML <img> element represents an image in the document (src is the attribute that gets the image source as a link)-->
+    <!--inline tag-->
+    <h3>Anna</h3>
+    <img id="anna" src="https://www.petmd.com/sites/default/files/salmonella-infection-dogs.jpg" />
+    <br />
+    <h3>Tzahi</h3>
+
+
+    <!--a way to create an img as a link-->
+    <a href="https://en.wikipedia.org/wiki/Dog" target="_blank">
+        <img id="tzahi" src="http://www.dogcontainmentsys.com/wp-content/uploads/2017/10/three-dogs-resting.jpg" />
+    </a>
+   
+    <br />
+    <h3>Tal</h3>
+    <img  id="tal" src="https://i.pinimg.com/736x/da/8e/fc/da8efc68a9eb13b228eee3609962a1a5--cute-dog-costumes-puppy-costume.jpg"/>
+    <br />
+    <h3>Sean</h3>
+    <img id="sean" src="https://static1.squarespace.com/static/55e48783e4b0b05d86d82227/56fdf38c746fb9c9ad4bf4ce/59a88414d2b8578ca0e079a3/1504300812745/IMG_0580.JPG"/>
+
+    <br />
+
+    <!--when we write href="#top" the link refers to the top of the current page (a built-in keyword) -->
+    <a href="#top">Back to top</a>
+    <br />
+    <a href="#doglink">Back to dogs link</a>
+</body>
+
+</html>
