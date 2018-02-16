@@ -1,0 +1,44 @@
+﻿<!DOCTYPE html>
+
+<html lang="en" xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <meta charset="utf-8" />
+    <title></title>
+
+    <script>
+
+        document.write("line 1");
+
+        function initDate(param) {
+            let date = new Date();
+            let element = document.getElementById("todaytTag");
+            element.innerText = date;
+
+
+            /*
+             document.write
+             if we call it before the "onload" event - it will be added to the top of the html page
+             if we call it after the "onload" event - it will clear all the text that was rendered before the "onload" event
+            */
+            if (param) {
+                document.write("line 2 <br/>"); //מבצע דריסה של כל תוכן העמוד -אם קיים תוכן
+                document.write("line 3 <br/>");
+            }
+        }
+     
+
+
+        function testFunc() {
+            document.write("line by testFunc <br/><button onclick='testFunc()'>call testFunc</button><br/>");
+        }
+    </script>
+</head>
+<body onload="initDate(false)">
+    <h1>Best Weekend</h1>
+    <p>
+        today is <span id="todaytTag"></span>
+    </p>
+    <p>class id: 91448 - 4</p>
+    <button onclick="testFunc()">call testFunc</button>
+</body>
+</html>
