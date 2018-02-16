@@ -1,0 +1,43 @@
+﻿<!DOCTYPE html>
+
+<html lang="en" xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <meta charset="utf-8" />
+    <title></title>
+
+    <script>
+        function showResult(param) {
+
+            let date = new Date;
+            let res=document.getElementById("res");
+            switch (param) {
+                case 'DayInMonth': res.innerHTML = date.getDate(); break;
+                case 'Day': res.innerHTML = date.getDay() + 1; break;
+                case 'Month': res.innerHTML = date.getMonth() + 1; break;
+                case 'Year': res.innerHTML = date.getFullYear(); break;
+            }
+        }
+    </script>
+</head>
+<body>
+    <button onclick="showResult('DayInMonth')">
+        DayInMonth
+    </button>
+    <button onclick="showResult('Day')">
+        Day
+    </button>
+    <button onclick="showResult('Month')">
+        Month
+    </button>
+    <button onclick="showResult('Year')">
+        Year
+    </button>
+
+
+    <h1>
+        result
+    </h1>
+    <span id="res"></span>
+
+</body>
+</html>
