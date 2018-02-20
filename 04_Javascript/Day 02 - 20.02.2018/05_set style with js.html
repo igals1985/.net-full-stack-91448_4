@@ -1,0 +1,109 @@
+﻿<!DOCTYPE html>
+
+<html lang="en" xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <meta charset="utf-8" />
+    <title></title>
+    <style>
+        .box {
+            width: 50%;
+            margin: 25%;
+            margin-top: 5%;
+            margin-bottom: 5%;
+            background-color: antiquewhite;
+            border-color: burlywood;
+            border-width: 2px;
+            border-radius: 10px;
+            padding: 20px;
+            text-align: center;
+        }
+
+
+        select, button, input {
+            display: inline-block;
+            width: 250px;
+            height: 30px;
+            margin: 10px;
+            border-color: black;
+            border-width: 1px;
+            border-radius: 6px;
+            margin-bottom: 20px;
+            padding-left: 10px;
+        }
+
+        #color1 {
+            padding-left: 2px;
+        }
+
+        label {
+            display: block;
+            text-align: center;
+        }
+
+        h1 {
+            text-align: center;
+        }
+
+        #pageBack {
+            margin: 0px;
+            width: 15px;
+            padding-left: 0px;
+            height: 15px;
+            margin-right: 10px;
+        }
+    </style>
+
+    <script>
+        function saveChanges() {
+            var element = document.getElementById("title");
+
+            element.innerHTML = document.getElementById("text1").value;
+
+            element.style.fontSize = document.getElementById("size1").value + "px";
+
+            element.style.color = document.getElementById("color1").value;
+
+            element.style.fontFamily = document.getElementById("fontFam").value;
+
+            if (document.getElementById("pageBack").checked) {
+                document.body.style.backgroundColor = document.getElementById("color1").value;
+            }
+        }
+
+    </script>
+</head>
+<body>
+
+    <div class="box">
+        <h1 id="title"> My Form</h1>
+    </div>
+
+    <div class="box">
+        <label>enter text:</label>
+        <input type="text" id="text1" />
+
+
+        <label>enter size:</label>
+        <input type="number" id="size1" />
+
+
+        <label>enter color:</label>
+        <input type="color" id="color1" />
+
+
+        <label>enter font style:</label>
+        <select id="fontFam">
+            <option value="'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif">style 1</option>
+            <option value="'Adobe Caslon Pro'">style 2</option>
+            <option value="'Adobe Garamond Pro'">style 3</option>
+        </select>
+
+
+        <br />
+        <span><input type="checkbox" id="pageBack" />set page background</span>
+        <br />
+        <button onclick="saveChanges()">save changes</button>
+
+    </div>
+</body>
+</html>

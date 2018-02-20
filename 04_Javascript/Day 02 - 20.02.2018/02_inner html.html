@@ -1,0 +1,42 @@
+﻿<!DOCTYPE html>
+
+<html lang="en" xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <meta charset="utf-8" />
+    <title></title>
+
+    <script>
+
+
+
+        function testOnLoad() {
+          
+            var elementLocal2 = document.getElementsByTagName("h1");
+            //var elementLocal3;
+
+            if (elementLocal2.length) {
+                
+                elementLocal2[0].innerHTML = elementLocal2[0].innerHTML + " & Happy JS Break";
+                //elementLocal3 = elementLocal2[0];
+                //elementLocal3.innerHTML = elementLocal3.innerHTML  +  " & Happy JS Break";
+            }
+       
+        }
+    </script>
+</head>
+<body onload="testOnLoad()">
+
+    <h1>Happy JS lesson</h1>
+
+    <hr />
+    <p>Thank you Meir for updating our vs version!!!</p>
+    <hr />
+    <ul>
+        <li id="li1">Sean</li>
+        <li>Ori</li>
+        <li>Rakefet</li>
+    </ul>
+
+
+</body>
+</html>

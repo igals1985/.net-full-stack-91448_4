@@ -1,0 +1,42 @@
+﻿<!DOCTYPE html>
+
+<html lang="en" xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <meta charset="utf-8" />
+    <title></title>
+
+    <script>
+ 
+
+
+        function testOnLoad() {
+            var elementLocal1 = document.getElementById("li1");
+            console.log("elementLocal step2", elementLocal1);  //<li id="li1">Sean</li>
+
+
+            var elementLocal2 = document.getElementsByTagName("ul");
+            var elementLocal3;
+
+            if (elementLocal2.length) {
+                elementLocal3 = elementLocal2[0];
+            }
+            console.log("elementLocal step2", elementLocal2);  
+        }
+    </script>
+</head>
+<body onload="testOnLoad()">
+
+    <h1>Happy JS lesson</h1>
+
+    <hr />
+    <p>Thank you Meir for updating our vs version!!!</p>
+    <hr />
+    <ul>
+        <li id="li1">Sean</li>
+        <li>Ori</li>
+        <li>Rakefet</li>
+    </ul>
+
+   
+</body>
+</html>

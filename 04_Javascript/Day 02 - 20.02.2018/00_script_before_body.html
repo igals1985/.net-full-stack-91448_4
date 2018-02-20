@@ -1,0 +1,41 @@
+﻿<!DOCTYPE html>
+
+<html lang="en" xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <meta charset="utf-8" />
+    <title></title>
+
+    <script>
+        var element1;
+        console.log("element1 step1", element1);  //undefined
+        element1 = document.getElementById("li1");
+        console.log("element1 step2", element1);  //null
+
+        function testOnLoad(param) {
+            var elementLocal;
+            console.log("elementLocal step1 " + param, elementLocal);  //undefined
+            elementLocal = document.getElementById("li1");
+            console.log("elementLocal step2 " + param, elementLocal);  //null or <li id="li1">Sean</li>
+        }
+        testOnLoad("In Head section");
+    </script>
+</head>
+<body onload="testOnLoad('in onload event')">
+
+    <h1>Happy JS lesson</h1>
+    <ul>
+        <li id="li1">Sean</li>
+        <li>Ori</li>
+        <li>Rakefet</li>
+    </ul>
+
+    <script>
+
+        testOnLoad("In Body section")
+        var element2;
+        console.log("element2 step1", element2);  //undefined
+        element2= document.getElementById("li1");
+        console.log("element2 step2", element2);  //<li id="li1">Sean</li>
+    </script>
+</body>
+</html>

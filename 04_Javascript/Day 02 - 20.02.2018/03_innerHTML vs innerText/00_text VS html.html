@@ -1,0 +1,63 @@
+﻿<!DOCTYPE html>
+
+<html lang="en" xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <meta charset="utf-8" />
+    <title></title>
+
+    <style>
+        p{
+            background-color:lightcyan;
+        }
+        span {
+            background-color: lightblue;
+        }
+    </style>
+    <script>
+
+        let index = 1;
+
+        function func() {
+            var element1 = document.getElementById("p1");
+
+            if (element1) {
+                element1.innerHTML = "<span>test " + index + "</span>";
+            }
+
+
+            var element2 = document.getElementById("p2");
+
+            if (element2) {
+                element2.outerHTML = "<span>test " + index + "</span>";
+            }
+
+
+            var element3 = document.getElementById("p3");
+
+            if (element3) {
+                element3.innerText = "<span>test " + index + "</span>";
+            }
+
+
+            var element4 = document.getElementById("p4");
+
+            if (element4) {
+                element4.outerText = "<span>test " + index + "</span>";
+            }
+
+            index++;
+
+        }
+    </script>
+</head>
+<body>
+
+    <p id="p1">original p1</p>
+    <p id="p2">original p2</p>
+    <p id="p3">original p3</p>
+    <p id="p4">original p4</p>
+
+
+    <button onclick="func()">click me</button>
+</body>
+</html>
