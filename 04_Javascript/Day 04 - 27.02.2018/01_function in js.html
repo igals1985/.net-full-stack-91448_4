@@ -1,0 +1,102 @@
+﻿<!DOCTYPE html>
+
+<html lang="en" xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <meta charset="utf-8" />
+    <title></title>
+
+    <script>
+        //דרך ראשונה ליצירת פונקציה
+        function f1(num) {
+            return num * 2;
+        }
+
+        //דרך שניה ליצירת פונקציה
+        let f2 = function (num) {
+            return num * 2;
+        };
+
+
+        let f3 = function tempName(num) {
+            return num * 2;
+        };
+        //tempName(2); --> runtime error --> Uncaught ReferenceError: tempName is not defined
+
+
+
+        //() יצירת מצביע לפונקציה - שימו לב לא מבצעים קריאה לפונקציה ע"י 
+        let f1Pointer = f1;
+
+
+        //דרך שלישית ליצירת פונקציה
+        //arowFunction - came out in 2015 
+
+
+        /**
+        בשביל להגדיר פונרציית חץ
+        יש לעמוד בתחביר הבא
+
+        (פרמטרים - עם פסיקים ביניהם) =>{
+                תוכן הקוד של הפונקציה
+        }
+
+        -------------------
+        כללים:
+
+        אם יש פרמטר אחד בלבד - אפשר לוותר על סוגריים עגולים בקבלת הפרמטרים
+        return - אם יש בתוך הפונקציה פקודה אחת בלבד שתפקידה להחזיר ערך - אפשר לוותר עך הסוגריים המסולסלים ועל המילה 
+         */
+
+        //f4 does not get any parametrs and returns the value 2
+        let f4 = () => 2;
+
+        //f5 gets one parametr and returns the mul of this param
+        let f5 = num => num * 2;
+
+        //f6 gets one parametr and returns the mul of this param
+        let f6 = (num) => num * 2;
+
+        //f7 gets one parametr and returns the mul of this param
+        let f7 = (num) => { return num * 2; };
+
+        //f8 gets two parametrs and returns their sum
+        let f8 = (num1, num2) => num1 + num2;
+
+        //f9 gets two parametrs and returns their sum
+        let f9 = (num1, num2) => { return num1 + num2; };
+
+        //f10 gets two parametrs and returns their sum
+        //because f10 has two commands in the function's body - we must to add the {}
+        let f10 = (num1, num2) => {
+            let num3 = num1 + num2;
+            return num3;
+        };
+       
+
+        document.write(`f1(2) returns ${f1(2)}<br/>`);
+        document.write(`f1Pointer(2) returns ${f1Pointer(2)}<br/>`);
+        document.write(`f2(2) returns ${f2(2)}<br/>`);
+        document.write(`f4() returns ${f4()}<br/>`);
+        document.write(`f5(2) returns ${f5(2)}<br/>`);
+        document.write(`f6(2) returns ${f6(2)}<br/>`);
+        document.write(`f7(2) returns ${f7(2)}<br/>`);
+        document.write(`f8(1,2) returns ${f8(1,2)}<br/>`);
+        document.write(`f9(1,2) returns ${f9(1, 2)}<br/>`);
+        document.write(`f10(1,2) returns ${f10(1, 2)}<br/>`);
+
+
+/*
+output:
+----------------------
+
+f1(2) returns 4
+f2(2) returns 4
+f3(2) returns 4
+*/
+
+    </script>
+</head>
+<body>
+
+</body>
+</html>

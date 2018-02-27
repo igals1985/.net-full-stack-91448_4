@@ -1,0 +1,6 @@
+C:\Users\jbt\Desktop\typeScriptCallback\bin\typeScriptCallback.dll.config
+C:\Users\jbt\Desktop\typeScriptCallback\bin\typeScriptCallback.dll
+C:\Users\jbt\Desktop\typeScriptCallback\bin\typeScriptCallback.pdb
+C:\Users\jbt\Desktop\typeScriptCallback\obj\Debug\typeScriptCallback.csprojResolveAssemblyReference.cache
+C:\Users\jbt\Desktop\typeScriptCallback\obj\Debug\typeScriptCallback.dll
+C:\Users\jbt\Desktop\typeScriptCallback\obj\Debug\typeScriptCallback.pdb
