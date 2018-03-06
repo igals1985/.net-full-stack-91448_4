@@ -19,9 +19,9 @@ function saveColor() {
 
     console.log("color",color);
 
-    //localStorageδερτϊ τψιθ μ 
-    //MyColor δξτϊη ωμ δτψιθ δεΰ
-    //color δςψκ ωμ δτψιθ δεΰ δϊελο ωμ δξωϊπδ 
+    //localStorageΧ”Χ•Χ΅Χ¤Χª Χ¤Χ¨Χ™Χ Χ 
+    //MyColor Χ”ΧΧ¤ΧªΧ— Χ©Χ Χ”Χ¤Χ¨Χ™Χ Χ”Χ•Χ
+    //color Χ”ΧΆΧ¨Χ Χ©Χ Χ”Χ¤Χ¨Χ™Χ Χ”Χ•Χ Χ”ΧªΧ•Χ›Χ Χ©Χ Χ”ΧΧ©ΧªΧ Χ” 
     localStorage.setItem("MyColor", color);
 
     document.body.style.backgroundColor = color;
