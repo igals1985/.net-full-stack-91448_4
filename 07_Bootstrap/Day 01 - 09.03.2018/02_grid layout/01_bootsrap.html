@@ -1,0 +1,68 @@
+﻿<!DOCTYPE html>
+
+<html lang="en">
+<head>
+    <meta charset="utf-8" />
+    <title></title>
+
+    <!--cdn-->
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" />
+   
+     <style>
+        .row > div {
+            height: 50px;
+            text-align: center;
+            line-height: 50px;
+            font-size: xx-large;
+        }
+
+            .row > div:nth-child(1) {
+                background-color: red;
+            }
+
+            .row > div:nth-child(2) {
+                background-color: green;
+            }
+
+            .row > div:nth-child(3) {
+                background-color: blue;
+            }
+
+            .row > div:nth-child(4) {
+                background-color: yellow;
+            }
+    </style>
+
+</head>
+<body>
+
+    <!-- Grid:  must use class="container-fluid" from bootstrap-->
+    <div class="container-fluid">
+
+        <!-- Row: -->
+        <div class="row">
+
+            <!-- Colums: -->
+            <div class="col-xs-12 col-sm-12 col-md-12 col-lg-6">A</div>
+            <div class="col-xs-12 col-sm-12 col-md-4 col-lg-6">B</div>
+            <div class="col-xs-12 col-sm-6 col-md-4 col-lg-6">C</div>
+            <div class="col-xs-12 col-sm-6 col-md-4 col-lg-6">D</div>
+
+
+            <!--
+                
+Extra small     |       <576px      |       col-xs
+Small           |       ≥576px      |       col-sm
+Medium          |       ≥768px      |       col-md
+Large           |       ≥992px      |       col-lg
+Extra large     |       ≥1200px     |       col-xl 
+                
+evry row is 12 col (12 col = 100% width of the row)                
+                
+                -->
+        </div>
+
+    </div>
+
+</body>
+</html>

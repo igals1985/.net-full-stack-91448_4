@@ -1,0 +1,78 @@
+﻿<!DOCTYPE html>
+
+<html lang="en">
+<head>
+    <meta charset="utf-8" />
+    <title></title>
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" />
+
+    <style>
+        #div2 {
+            height: 50px;
+            text-align: center;
+            line-height: 50px;
+            font-size: xx-large;
+        }
+
+         #div2 > div:nth-child(1) {
+                background-color: red;
+            }
+            
+            #div2 > div:nth-child(2) {
+                background-color: green;
+            }
+
+             #div2 > div:nth-child(3) {
+                background-color: blue;
+            }
+
+             #div2 > div:nth-child(4) {
+                background-color: yellow;
+            }
+
+
+        .h1color {
+            color: blue;
+            background-color:darkgrey;
+        }
+
+        .h1Size {
+            font-size: 3em;
+            text-align:center;
+        }
+    </style>
+</head>
+<body>
+
+    <!--אפשר לשייך לאלמנט כמה מחלקות שנירצה עם רווח בין מחלקה אחת לשניה-->
+  
+
+    <!-- Grid: -->
+    <div class="container-fluid">
+
+        <!-- Row: -->
+        <div class="row">
+            <!-- Colums: -->
+            <div class="col-xs-4 col-sm-4 col-md-6 col-lg-12">
+                <h1 class="h1color h1Size">
+                    Hello Bootstrap
+                </h1>
+            </div>
+        </div>
+
+
+        <!-- Row: -->
+        <div id="div2" class="row">
+
+            <!-- Colums: -->
+            <div class="col-xs-4 col-sm-4 col-md-6 col-lg-12">A</div>
+            <div class="col-xs-4 col-sm-4 hidden-md col-lg-12">B</div>
+            <div class="col-xs-4 col-sm-2 col-md-6 col-lg-12">C</div>
+            <div class="hidden-xs col-sm-2 col-md-6 col-lg-12">D</div>
+
+        </div>
+
+    </div>
+
+</body>
+</html>
