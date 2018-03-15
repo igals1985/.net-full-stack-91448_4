@@ -1,0 +1,66 @@
+﻿<!DOCTYPE html>
+
+<html>
+<head>
+    <!-- Latest compiled and minified CSS -->
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
+
+
+    <style>
+        .row > div{
+            height: 50px;
+            font-size: xx-large;
+            text-align: center;
+        }
+
+            .row > div:nth-child(1) {
+                background-color: red;
+                display:block;
+            }
+
+            .row > div:nth-child(2) {
+                background-color: green;
+            }
+
+            .row > div:nth-child(3) {
+                background-color: blue;
+            }
+
+            .row > div:nth-child(4) {
+                background-color: yellow;
+            }
+    </style>
+</head>
+<body>
+
+
+    <div class="container-fluid">
+        <span>Different:</span>
+
+
+        <!--the size sm is valid for "sm" and above-->
+        <!--the size "xs" iwill have 12 col (default)-->
+        <div class="row">
+            <div class="col-sm-1">A</div>
+            <div class="col-sm-2">B</div>
+            <div class="col-sm-3">C</div>
+            <div class="col-sm-6">D</div>
+        </div>
+    </div>
+
+
+
+    <!--
+
+    Extra small     |       <576px      |       col-xs
+    Small           |       ≥576px      |       col-sm
+    Medium          |       ≥768px      |       col-md
+    Large           |       ≥992px      |       col-lg
+    Extra large     |       ≥1200px     |       col-xl
+
+    evry row is 12 col (12 col = 100% width of the row)
+
+                    -->
+
+</body>
+</html>
