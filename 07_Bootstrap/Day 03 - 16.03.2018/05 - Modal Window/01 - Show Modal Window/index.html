@@ -1,0 +1,52 @@
+﻿<!DOCTYPE html>
+
+<html>
+<head>
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css">
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js"></script>
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/js/bootstrap.min.js"></script>
+</head>
+<body>
+
+    <div class="container-fluid">
+        <div class="row">
+            <div class="col-xs-12">
+
+                <!-- Button for triggering the modal dialog: -->
+                <a href="#license" class="btn btn-info" data-toggle="modal" data-target="#license">Show License</a>
+
+                <!-- Modal -->
+                <div id="license" class="modal fade">
+                    <div class="modal-dialog modal-content">
+
+                        <!-- Dialog header: -->
+                        <div class="modal-header">
+
+                            <!-- Close button (<input type="button" ... /> doesn't work): -->
+                            <button type="button" class="close" data-dismiss="modal">&times;</button>
+
+                            <!-- Dialog title (inside the header): -->
+                            <h4 class="modal-title">License Details</h4>
+							
+                        </div>
+
+                        <!-- Dialog body: -->
+                        <div class="modal-body">
+                            <p>The usage is free for all...</p>
+                        </div>
+
+                        <!-- Dialog footer: -->
+                        <div class="modal-footer">
+                            <input type="checkbox" id="gotIt" />
+                            <label for="gotIt">Got It</label>
+                        </div>
+
+                    </div>
+                </div>
+
+            </div>
+        </div>
+    </div>
+
+</body>
+</html>

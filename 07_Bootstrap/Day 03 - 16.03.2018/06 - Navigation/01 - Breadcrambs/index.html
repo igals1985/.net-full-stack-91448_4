@@ -1,0 +1,82 @@
+﻿<!DOCTYPE html>
+
+<html>
+<head>
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css">
+    <style>
+        #second.breadcrumb > li + li:before {
+            content: "»";
+        }
+        #third.breadcrumb > li + li:before {
+            content: " ";
+        }
+    </style>
+</head>
+<body>
+
+    <div class="container-fluid">
+
+        <div class="row">
+            <div class="col-xs-12">
+
+                <!-- Default separator breadcrumbs:
+                    Note: class="breadcrumb" (singular)
+                    and not class="breadcrumbs" (plural): -->
+
+                <ul class="breadcrumb">
+                    <li>                        
+                        <a href="#">Home</a>
+                    </li>
+                    <li>
+                        <a href="#">Products</a>
+                    </li>
+                    <li>
+                        <a href="#">Forum</a>
+                    </li>
+                </ul>
+            </div>
+        </div>
+
+        <div class="row">
+            <div class="col-xs-12">
+
+                <!-- Defining our own text separator (through the above css): -->
+                <ul id="second" class="breadcrumb">
+                    <li>
+                        <a href="#">Home</a>
+                    </li>
+                    <li>
+                        <a href="#">Products</a>
+                    </li>
+                    <li>
+                        <a href="#">Forum</a>
+                    </li>
+                </ul>
+            </div>
+        </div>
+
+        <div class="row">
+            <div class="col-xs-12">
+
+                <!-- Defining our own glyph separator (through the above css): -->
+                <ul id="third" class="breadcrumb">
+                    <li>
+                        <a href="#">Home</a>
+                        &nbsp;&nbsp;
+                        <span class="glyphicon glyphicon-arrow-right"></span>
+                    </li>
+                    <li>
+                        <a href="#">Products</a>
+                        &nbsp;&nbsp;
+                        <span class="glyphicon glyphicon-arrow-right"></span>
+                    </li>
+                    <li>
+                        <a href="#">Forum</a>
+                    </li>
+                </ul>
+            </div>
+        </div>
+
+    </div>
+</body>
+</html>
