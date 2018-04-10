@@ -1,0 +1,11 @@
+.bg-set{
+    background-color: lavender;
+    top:0;
+    position: absolute;
+}
+
+
+img{
+    max-height: 300px;
+    min-height: 300px;
+}

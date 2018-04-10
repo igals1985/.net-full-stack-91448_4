@@ -1,0 +1,26 @@
+<div class="bg-set text-center">
+    <div class="page-header">
+        <h1>{{msg.title}} &nbsp;
+            <small>Today is: {{msg.date}}</small>
+        </h1>
+    </div>
+
+
+    <h2>Calender plan for today:</h2>
+    
+    <div *ngFor="let x of subjectArray">
+        <app-single-subject 
+        [subject]="x"
+        (imgEmitter)="onChildImgSelected($event)"
+        (imgEmitterVoid)="onChildImgVoid($event)"
+        ></app-single-subject>
+    </div>
+
+
+    <h2>Selected Subject Logo:</h2>
+    <img [src]="selectedImg"/>
+    
+
+
+
+</div>
