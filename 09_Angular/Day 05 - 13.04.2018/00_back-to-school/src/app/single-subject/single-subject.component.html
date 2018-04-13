@@ -1,0 +1,20 @@
+<div class="row">
+    <div class="col-md-offset-4 col-sm-6 col-md-4">
+        <div class="thumbnail">
+            <img [src]="subject.subjectLogo">
+            <div class="caption">
+                <h3>{{subject.subjectName}}</h3>
+                <p>{{subject.subjectDesc}}</p>
+                <p>
+                    <a role="button" target="blank" [href]="subject.subjectLink" class="btn btn-primary">
+                        view in wiki
+                    </a>
+
+                    <button (click)="onImgSelected()" class="btn btn-primary">
+                        view large logo
+                    </button>
+                </p>
+            </div>
+        </div>
+    </div>
+</div>

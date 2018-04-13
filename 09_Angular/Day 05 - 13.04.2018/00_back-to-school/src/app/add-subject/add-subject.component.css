@@ -1,0 +1,12 @@
+.form-set{
+    max-width: 70%;
+    margin-left: 15%;
+}
+div{
+    margin-bottom: 20px;
+}
+
+.input-group-addon{
+    min-width: 150px;
+    max-width: 150px;
+}

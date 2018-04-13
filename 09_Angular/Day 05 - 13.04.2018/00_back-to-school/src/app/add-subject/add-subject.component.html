@@ -1,0 +1,23 @@
+<div class="form-set">
+        <h1>Add new Subject:</h1>
+        
+        <div class="input-group input-group-lg">
+            <span class="input-group-addon">subject Name</span>
+            <input type="text" class="form-control" [(ngModel)]="newSubject.subjectName">
+        </div>
+        <div class="input-group input-group-lg">
+            <span class="input-group-addon">subject Desc</span>
+            <input type="text" class="form-control" [(ngModel)]="newSubject.subjectDesc">
+        </div>
+        <div class="input-group input-group-lg">
+            <span class="input-group-addon">subject Logo</span>
+            <input type="text" class="form-control" [(ngModel)]="newSubject.subjectLogo">
+        </div>
+        <div class="input-group input-group-lg">
+            <span class="input-group-addon">subject Link</span>
+            <input type="text" class="form-control" [(ngModel)]="newSubject.subjectLink">
+        </div>
+        <button (click)="addNewSubject()" class="btn btn-primary form-control">
+            Add subject
+        </button>
+</div>

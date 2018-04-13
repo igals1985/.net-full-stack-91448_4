@@ -1,0 +1,23 @@
+.bg-set{
+    background-color: lavender;
+    top:0;
+    bottom: 0;
+    right: 0;
+    left: 0;
+    position: absolute;
+}
+
+.page-header{
+    margin-bottom: 40px;
+}
+
+img{
+    max-height: 300px;
+    min-height: 300px;
+}
+.nav-pills{
+    margin: 30px;
+}
+.btn-primary{
+    min-width: 150px;
+}

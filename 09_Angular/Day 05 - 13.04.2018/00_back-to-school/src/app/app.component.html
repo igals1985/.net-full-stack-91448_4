@@ -1,0 +1,56 @@
+<div class="bg-set text-center">
+    <div class="page-header">
+        <h1>{{msg.title}} &nbsp;
+            <small>Today is: {{msg.date}}</small>
+        </h1>
+    </div>
+
+
+    <ul class="nav nav-pills">
+        <li>
+            <button (click)="changeView('view')" class="btn btn-primary">View Subject</button>
+        </li>
+        <li>
+            <button (click)="changeView('logo')" class="btn btn-primary">View Logo</button>
+        </li>
+        <li>
+            <button (click)="changeView('add')" class="btn btn-primary">Add Subject</button>
+        </li>
+    </ul>
+
+
+
+
+
+    <div [ngSwitch]="state">
+
+        <div *ngSwitchCase="'logo'">
+            <h2>Selected Subject Logo:</h2>
+            <img [src]="selectedImg" />
+        </div>
+
+        <div *ngSwitchCase="'add'">
+            <app-add-subject (addSub)="addSubject($event)"></app-add-subject>
+        </div>
+
+        <div *ngSwitchDefault>
+            <div *ngFor="let x of subjectArray">
+                <app-single-subject [subject]="x" (imgEmitter)="onChildImgSelected($event)"></app-single-subject>
+            </div>
+        </div>
+
+    </div>
+
+
+
+
+
+</div>
+
+
+<!--
+IMPORTANT:
+  [subject]="x"                                 ==> cross component binding from parent to child
+  (imgEmitter)="onChildImgSelected($event)"     ==> cross component binding from child to parent  
+  (imgEmitterVoid)="onChildImgVoid($event)"     ==> cross component binding from child to parent  
+-->
