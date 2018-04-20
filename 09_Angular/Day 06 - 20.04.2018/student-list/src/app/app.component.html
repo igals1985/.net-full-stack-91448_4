@@ -1,0 +1,17 @@
+<div class="row">
+    <div class="col-sm-offset-4 col-sm-4">
+        <div>
+
+            <div class="input-group">
+                <input type="text" class="form-control" placeholder="student name" [(ngModel)]="newStudent">
+                <span class="input-group-btn">
+                    <button class="btn btn-default" type="button" (click)="addStudent()">Add</button>
+                </span>
+            </div>
+
+        </div>
+        <app-single-student [studentName]="currentStudent"></app-single-student>
+
+    </div>
+
+</div>
