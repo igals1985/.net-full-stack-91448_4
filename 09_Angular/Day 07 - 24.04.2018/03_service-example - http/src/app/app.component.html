@@ -1,0 +1,12 @@
+<div class="jumbotron text-center">
+    <div *ngIf="userMain.userInfo.data">
+        <h1>
+            {{userMain.userInfo.data.first_name}} {{userMain.userInfo.data.last_name}}
+        </h1>
+        <img [src]="userMain.userInfo.data.avatar" />
+    </div>
+
+    <div *ngIf="!userMain.userInfo.data">
+        please wait!!!
+    </div>
+</div>
