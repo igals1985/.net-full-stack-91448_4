@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    
+    <script src="app1.js"></script>
+    
+    <script>
+        //כאן אי אפשר לגשת לאלמנטים בתוך הדף כי חלק זה נטען לפני האלמנטים
+        let x = document.getElementById("myHead");
+        (x) ? console.log("x is defined") : console.log("x is not defined");
+    </script>
+</head>
+
+<body>
+    
+    <h1 id="myHead">hello world</h1>
+
+    <script>
+        //כאן  אפשר לגשת לאלמנטים בתוך הדף כי חלק זה נטען אחרי האלמנטים        
+        let y = document.getElementById("myHead");
+        (y) ? console.log("y is defined") : console.log("y is not defined");
+    </script>
+    
+    <script src="app2.js"></script>
+</body>
+
+</html>
