@@ -72,7 +72,7 @@ namespace _02_basic_types
             bool bool2 = Convert.ToBoolean("true");
 
 
-            //המרה של מחרוזת למספר
+            //המרה של מספר למחרוזת
             string str1 = (9).ToString();
             string str2 = Convert.ToString(9);
 
