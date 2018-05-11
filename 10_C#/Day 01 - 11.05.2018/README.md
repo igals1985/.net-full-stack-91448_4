@@ -62,4 +62,60 @@ The following table shows the precision and approximate ranges for the floating-
 |----------|-----------------------|---------------|  
 |float|±1.5e−45 to ±3.4e38|7 digits|  
 |double|±5.0e−324 to ±1.7e308|15-16 digits|  
+
+
+
+---
+
+# Casting and Type Conversions 
+Because C# is statically-typed at compile time, after a variable is declared, it cannot be declared again or used to store values of another type unless that type is convertible to the variable's type.
+<br>
+For example, there is no conversion from an integer to any arbitrary string. Therefore, after you declare `i` as an integer, you cannot assign the string "Hello" to it, as is shown in the following code.  
+  
+```csharp  
+int i;  
+i = "Hello"; // Error: "Cannot implicitly convert type 'string' to 'int'"  
+```  
+  
+ However, you might sometimes need to copy a value into a variable parameter of another type. These kinds of operations are called *type conversions*. In C#, you can perform the following kinds of conversions:  
+  
+-   **Implicit conversions**: No special syntax is required because the conversion is type safe and no data will be lost. Examples include conversions from smaller to larger integral types. 
+<br>
+For built-in numeric types, an implicit conversion can be made when the value to be stored can fit into the variable without being truncated or rounded off. For example, a variable of type long (8 byte integer) can store any value that an int (4 bytes on a 32-bit computer) can store. In the following example, the compiler implicitly converts the value on the right to a type `long` before assigning it to `bigNum`. 
+```csharp
+// Implicit conversion. num long can
+// hold any value an int can hold, and more!
+int num = 2147483647;
+long bigNum = num;
+```
+
+# Implicit Numeric Conversions Table (C# Reference)
+The following table shows the predefined implicit numeric conversions. Implicit conversions might occur in many situations, including method invoking and assignment statements.  
+  
+|From|To|  
+|----------|--------|  
+|sbyte|`short`, `int`, `long`, `float`, `double`, or `decimal`|  
+|byte|`short`, `ushort`, `int`, `uint`, `long`, `ulong`, `float`, `double`, or `decimal`|  
+|short|`int`, `long`, `float`, `double`, or `decimal`|  
+|ushort|`int`, `uint`, `long`, `ulong`, `float`, `double`, or `decimal`|  
+|int|`long`, `float`, `double`, or `decimal`|  
+|uint|`long`, `ulong`, `float`, `double`, or `decimal`|  
+|long|`float`, `double`, or `decimal`|  
+|char|`ushort`, `int`, `uint`, `long`, `ulong`, `float`, `double`, or `decimal`|  
+|float|`double`|  
+|ulong|`float`, `double`, or `decimal`|  
+  
+-   **Explicit conversions (casts)**: Explicit conversions require a cast operator. Casting is required when information might be lost in the conversion, or when the conversion might not succeed for other reasons.  Typical examples include numeric conversion to a type that has less precision or a smaller range.  
+For example:
+```csharp
+double x = 1234.7;
+int a;
+// Cast double to int.
+a = (int)x;
+System.Console.WriteLine(a);
+ ```
+  
+ 
+
+ 
   
