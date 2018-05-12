@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <script>
+
+        class Cat {
+
+            //ישירות בתוך המחלקה
+            //אפשר להגדיר רק פונקציה אבל לא משתנים
+            sayHello() {
+                console.log(`Hello from cat that is ${this.age} years old`)
+            };
+
+            constructor() {
+
+                //בצורה זו אפשר להגדיר משתנים
+                this.color = "black";
+                this.age = 3;
+            }
+        }
+
+        let c1 = new Cat();
+        c1.sayHello();
+        console.log(c1.age);
+
+    </script>
+</head>
+
+<body>
+
+</body>
+
+</html>

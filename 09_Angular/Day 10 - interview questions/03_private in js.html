@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <script>
+        
+        function simpleFunk() {
+            return 3;
+        }
+
+        //דרך מיוחדת ליצור מחלקות בצורת פונקציות
+        // we will call this function with the "new" operator
+        function Cat() {
+            let ptivateFunc = () => { console.log("I am a private cat") };
+            let color = "black";
+
+            this.sayHello = () => { console.log("Hello from cat") };
+            this.age = 3;
+        }
+
+
+        let c1 = new Cat();
+        //c1.ptivateFunc();  //--> Uncaught TypeError: c1.ptivateFunc is not a function
+        c1.sayHello();
+
+
+        let y1 = Cat();
+        //y1.sayHello();  //Uncaught TypeError: Cannot read property 'sayHello' of undefined
+        console.log(y1);  //--> undefined
+
+        let y2=simpleFunk();
+        console.log(y2);  //--> 3
+    </script>
+</head>
+
+<body>
+
+</body>
+
+</html>
